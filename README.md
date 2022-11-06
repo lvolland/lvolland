@@ -4,5 +4,3 @@
 - 🏫 I’m currently studying at **42 Nice**
 
 - 🌱 I’m currently learning **C, PhP, CSS, HTML...**
-
-- 📫 How to reach me **louis@splyn.fr**
