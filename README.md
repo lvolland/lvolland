@@ -6,3 +6,4 @@
 - 🌱 I’m currently learning **C, PhP, CSS, HTML...**
 
 [![lvolland's 42 stats](https://badge42.vercel.app/api/v2/clall4pv501410gjokcu1q9vd/stats?cursusId=21&coalitionId=116)](https://github.com/JaeSeoKim/badge42)
+[![lvolland's 42 Libft Score](https://badge42.vercel.app/api/v2/clall4pv501410gjokcu1q9vd/project/2868136)](https://github.com/JaeSeoKim/badge42)
