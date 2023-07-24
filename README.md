@@ -3,6 +3,8 @@
 
 - 🏫 I’m currently studying at [42 Nice](https://42nice.fr)
 
+- 🖥️ Work at [Dibsteur](https://www.dibsteur.com)
+
 - 🌱 I’m currently learning **C, C++, TypeScript, Flutter (Dart), Svelte...**
 
 <h3 align="left">Languages and Tools:</h3>
