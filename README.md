@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
 <h3 align="center">A Full Stack developer from France</h3>
 
-- 🏫 I’m currently studying at [42 Nice](https://42nice.fr)
-
 - 🖥️ Work at [Dibsteur](https://www.dibsteur.com)
 
 - 🌱 I’m currently learning **C, C++, TypeScript, Flutter (Dart), Svelte...**
